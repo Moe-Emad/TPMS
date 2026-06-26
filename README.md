@@ -152,9 +152,3 @@ Courses are currently organized into three categories:
 - SQL queries use string concatenation (SQL injection risk) — consider using prepared statements
 - No image upload — course images are set via external URL
 - Sessions are used for authentication with no CSRF protection
-
----
-
-## License
-
-This project was built for educational purposes. Feel free to fork and extend it.
